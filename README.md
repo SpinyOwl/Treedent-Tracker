@@ -41,7 +41,6 @@ We provide issue templates to help you submit clear and actionable reports. Plea
 ## 🤝 Code of Conduct
 
 Please be respectful and constructive in all interactions.  
-See our [Code of Conduct](CODE_OF_CONDUCT.md) for details.
 
 ---
 
